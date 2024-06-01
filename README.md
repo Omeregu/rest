@@ -1,0 +1,2 @@
+# Responsive-Online-Food-Delivery-Website-using-HTML-JavaScript-and-PHP
+Designed and developed a responsive food delivery website using HTML, CSS, and JavaScript. Key features include user-friendly interfaces for ordering food, groceries, and restaurant management tools. Prioritize responsiveness across devices and aim to enhance the user experience while fostering growth in the online food delivery sector.
